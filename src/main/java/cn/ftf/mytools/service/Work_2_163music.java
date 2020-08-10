@@ -1,7 +1,6 @@
 package cn.ftf.mytools.service;
 
 import java.io.*;
-import java.util.Arrays;
 
 public class Work_2_163music {
     public static void main(String[] args) throws Exception {
